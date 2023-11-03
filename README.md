@@ -4,7 +4,7 @@
 
 <p id="description">This project uses machine learning to provide farmers with personalized recommendations for fertilizer crop selection yield prediction and crop disease detection. We use a variety of data sources to train our machine learning models. Our models are then able to generate accurate and personalized recommendations for each farmer based on their unique circumstances.</p>
 
-#### Cloud project files can be found [here]([http://ec2-52-15-93-123.us-east-2.compute.amazonaws.com:8080/](https://nedamcofoundation-my.sharepoint.com/:f:/g/personal/yididya_kebede_nedamcoacademy_org/EtXZhpFqFmhAh9TTOmXYjiYBqjtgbQVC9EJwOwpXTL1vJw?e=XbKzfC))
+#### Cloud project files can be found [here](https://nedamcofoundation-my.sharepoint.com/:f:/g/personal/yididya_kebede_nedamcoacademy_org/EtXZhpFqFmhAh9TTOmXYjiYBqjtgbQVC9EJwOwpXTL1vJw?e=XbKzfC)
 
 # Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
