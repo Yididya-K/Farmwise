@@ -6,11 +6,6 @@
 
 
 
-
-
-## Notebooks 📓
-
-
 # Built with 🛠️
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -29,7 +24,7 @@
 
 ## DEPLOYMENT 🚀
 
-#### Deployment is done using [deploy](https://github.com/Gladiator07/Harvestify/tree/deploy) branch
+
 #### This website is deployed at [AWS Ec2]
 #### You can access it [here](http://ec2-52-15-93-123.us-east-2.compute.amazonaws.com:8080/)
 #### Note: The website may take a minute to load sometimes
