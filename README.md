@@ -1,3 +1,2 @@
-## THIS IS THE DEPLOYMENT BRANCH
+## Farmwise
 
-## FOR MAIN BRANCH GO [HERE](https://github.com/Gladiator07/Harvestify)
