@@ -81,5 +81,5 @@ Note that, for now it only supports following crops
 ## Homepage
 - ![Homepage](demo/1.PNG)
 ## services
- ![services](demo/2.png)
+ ![services](demo/2.PNG)
 
