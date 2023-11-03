@@ -79,7 +79,7 @@ Note that, for now it only supports following crops
 - Open the localhost url provided after running `app.py` and now you can use the project locally in your web browser.
 ## DEMO
 ## Homepage
-- ![Homepage](demo/1.png)
+- ![Homepage](demo/1.PNG)
 ## services
  ![services](demo/2.png)
 
